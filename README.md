@@ -26,6 +26,7 @@
 - [Lesson 05: Food and Drinks](lessons/lesson-05-food-and-drinks.md)
 - [Lesson 06: Directions and Transport](lessons/lesson-06-directions-and-transport.md)
 - [Lesson 07: Shopping and Prices](lessons/lesson-07-shopping-and-prices.md)
+- [Lesson 08: Small Talk and Phone Calls](lessons/lesson-08-small-talk-and-phone.md)
 
 ## 给零基础学习者的提醒
 
