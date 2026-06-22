@@ -27,6 +27,7 @@
 - [Lesson 06: Directions and Transport](lessons/lesson-06-directions-and-transport.md)
 - [Lesson 07: Shopping and Prices](lessons/lesson-07-shopping-and-prices.md)
 - [Lesson 08: Small Talk and Phone Calls](lessons/lesson-08-small-talk-and-phone.md)
+- [Lesson 09: Asking for Help and Handling Problems](lessons/lesson-09-asking-for-help-and-problems.md)
 
 ## 给零基础学习者的提醒
 
