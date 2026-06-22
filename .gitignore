@@ -27,3 +27,6 @@ coverage/
 # Local environment files
 .env
 .env.*
+
+# Local agent/runtime state
+.omx/
