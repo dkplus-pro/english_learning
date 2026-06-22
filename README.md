@@ -19,7 +19,8 @@
 
 ## 当前课程目录
 
-- [Lesson 01: Sounds and Greetings](lessons/lesson-01-sounds-and-greetings.md)
+- [Lesson 01: Sounds and Greetings](/home/waijx/learning/english_learning/lessons/lesson-01-sounds-and-greetings.md)
+- [Lesson 02: Introductions and Personal Info](/home/waijx/learning/english_learning/lessons/lesson-02-introductions-and-personal-info.md)
 
 ## 给零基础学习者的提醒
 
