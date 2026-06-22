@@ -29,6 +29,7 @@
 - [Lesson 08: Small Talk and Phone Calls](lessons/lesson-08-small-talk-and-phone.md)
 - [Lesson 09: Asking for Help and Handling Problems](lessons/lesson-09-asking-for-help-and-problems.md)
 - [Lesson 10: Opinions and Preferences](lessons/lesson-10-opinions-and-preferences.md)
+- [Lesson 11: Listening to Real-Speed English](lessons/lesson-11-listening-to-real-speed-english.md)
 
 ## 给零基础学习者的提醒
 
