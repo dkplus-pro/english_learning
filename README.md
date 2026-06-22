@@ -25,6 +25,7 @@
 - [Lesson 04: Daily Routines](lessons/lesson-04-daily-routines.md)
 - [Lesson 05: Food and Drinks](lessons/lesson-05-food-and-drinks.md)
 - [Lesson 06: Directions and Transport](lessons/lesson-06-directions-and-transport.md)
+- [Lesson 07: Shopping and Prices](lessons/lesson-07-shopping-and-prices.md)
 
 ## 给零基础学习者的提醒
 
