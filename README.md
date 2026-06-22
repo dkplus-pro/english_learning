@@ -21,6 +21,7 @@
 
 - [Lesson 01: Sounds and Greetings](/home/waijx/learning/english_learning/lessons/lesson-01-sounds-and-greetings.md)
 - [Lesson 02: Introductions and Personal Info](/home/waijx/learning/english_learning/lessons/lesson-02-introductions-and-personal-info.md)
+- [Lesson 03: Numbers, Time, and Schedules](/home/waijx/learning/english_learning/lessons/lesson-03-numbers-time-and-schedules.md)
 
 ## 给零基础学习者的提醒
 
