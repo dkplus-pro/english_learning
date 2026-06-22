@@ -24,6 +24,7 @@
 - [Lesson 03: Numbers, Time, and Schedules](lessons/lesson-03-numbers-time-and-schedules.md)
 - [Lesson 04: Daily Routines](lessons/lesson-04-daily-routines.md)
 - [Lesson 05: Food and Drinks](lessons/lesson-05-food-and-drinks.md)
+- [Lesson 06: Directions and Transport](lessons/lesson-06-directions-and-transport.md)
 
 ## 给零基础学习者的提醒
 
