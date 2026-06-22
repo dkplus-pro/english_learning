@@ -23,6 +23,7 @@
 - [Lesson 02: Introductions and Personal Info](lessons/lesson-02-introductions-and-personal-info.md)
 - [Lesson 03: Numbers, Time, and Schedules](lessons/lesson-03-numbers-time-and-schedules.md)
 - [Lesson 04: Daily Routines](lessons/lesson-04-daily-routines.md)
+- [Lesson 05: Food and Drinks](lessons/lesson-05-food-and-drinks.md)
 
 ## 给零基础学习者的提醒
 
